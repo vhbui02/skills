@@ -1,0 +1,5 @@
+interface:
+  display_name: "Implement (No Tests)"
+  short_description: "Implement code step by step without tests"
+policy:
+  allow_implicit_invocation: false
