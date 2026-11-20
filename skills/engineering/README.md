@@ -18,6 +18,7 @@ Reachable only when you type them (Claude Code: `disable-model-invocation: true`
 - **[wayfinder](./wayfinder/SKILL.md)**: Plan a huge chunk of work (more than one agent session can hold) as a shared map of decision tickets on the issue tracker, resolved one at a time until the way to the destination is clear.
 - **[retro](./retro/SKILL.md)**: Suggest improvements to the coding agent's environment (navigation, automated checks, coding standards, steering files, tooling) after a session, most severe first.
 - **[impl0test](./impl0test/SKILL.md)**: Implement code step by step without automated tests. The user tests manually.
+- **[23-nfrs](./23-nfrs/SKILL.md)**: Review the state of the project against 23 Non-Functional Requirements.
 
 ## Model-invoked
 
