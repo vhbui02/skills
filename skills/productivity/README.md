@@ -13,6 +13,7 @@ Reachable only when you type them (Claude Code: `disable-model-invocation: true`
 - **[wait-what](./wait-what/SKILL.md)**: Fire this the moment a message doesn't land. The agent re-pitches it with the context you're missing, in plain English, using your `GLOSSARY.md` vocabulary.
 - **[ask](./ask/SKILL.md)**: Read-only mode. No file changes or write commands.
 - **[eli5](./eli5/SKILL.md)**: Explain using the simplest words possible.
+- **[explain](./explain/SKILL.md)**: Explain in ASD-STE100 Simplified Technical English.
 - **[proof-read](./proof-read/SKILL.md)**: Proofread posts, articles, or documentation before publication. Checks spelling, grammar, logic, and link validity.
 
 ## Model-invoked
