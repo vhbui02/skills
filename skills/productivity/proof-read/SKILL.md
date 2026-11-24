@@ -1,6 +1,7 @@
 ---
 name: proof-read
 description: Proofread posts, articles, or documentation before publication. Checks spelling, grammar, logic, and link validity.
+disable-model-invocation: true
 ---
 
 # Proofreader

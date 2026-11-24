@@ -1,6 +1,7 @@
 ---
 name: ask
 description: Read-only mode. No file changes or write commands.
+disable-model-invocation: true
 ---
 
 # Ask Mode
