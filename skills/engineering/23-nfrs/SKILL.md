@@ -4,7 +4,7 @@ description: Review against 23 Non-Functional Requirements (NFRs)
 disable-model-invocation: true
 ---
 
-Review against 23 Non-Functional Requirements (NFRs), score each from the scale of 0-to-10:
+Review against 23 Non-Functional Requirements (NFRs), score each from the scale of 0 to 10:
 
 ## 1. Security
 **Description:** Requirements regarding security throughout system usage, from accessing, performing operations, and printing documents to logging out of the system.
