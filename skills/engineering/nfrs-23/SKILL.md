@@ -1,5 +1,5 @@
 ---
-name: 23-nfrs
+name: nfrs-23
 description: Review against 23 Non-Functional Requirements (NFRs)
 disable-model-invocation: true
 ---
